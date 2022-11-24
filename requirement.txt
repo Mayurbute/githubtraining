@@ -2,3 +2,6 @@ This is the chat application
 Type option 
 colors
 vibrant
+
+Darkmode
+Videocalls
