@@ -5,3 +5,7 @@ vibrant
 
 Darkmode
 Videocalls
+
+paymet option
+send money
+recived money
